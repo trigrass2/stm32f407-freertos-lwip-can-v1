@@ -1,0 +1,1 @@
+基于以太网及CANOpen的机器人分布式控制系统。以STM32F407为核心，操作系统采用FreeRTOS，分别采用LWIP和CANFestival协议栈。
